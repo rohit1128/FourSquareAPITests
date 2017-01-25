@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourSquareAPITests", "FourSquareAPITests\FourSquareAPITests.csproj", "{38D89DA2-7033-4FD7-A4AF-3C38DFCB861E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpSquare", "..\..\..\..\Downloads\SharpSquare-master\SharpSquare-master\SharpSquare.csproj", "{F6163F95-DA23-49C6-B58B-CEF0CF0B2C83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D89DA2-7033-4FD7-A4AF-3C38DFCB861E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D89DA2-7033-4FD7-A4AF-3C38DFCB861E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D89DA2-7033-4FD7-A4AF-3C38DFCB861E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D89DA2-7033-4FD7-A4AF-3C38DFCB861E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6163F95-DA23-49C6-B58B-CEF0CF0B2C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6163F95-DA23-49C6-B58B-CEF0CF0B2C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6163F95-DA23-49C6-B58B-CEF0CF0B2C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6163F95-DA23-49C6-B58B-CEF0CF0B2C83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
